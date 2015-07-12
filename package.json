@@ -1,0 +1,32 @@
+{
+  "name": "metalsmith-i18n",
+  "version": "0.1.0",
+  "description": "Translate strings in Metalsmith templates",
+  "author": "doup <asier@illarra.com>",
+  "license": "MIT",
+  "keywords": [
+    "metalsmith",
+    "i18n",
+    "translate"
+  ],
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://doup@github.com/doup/metalsmith-i18n.git"
+  },
+  "bugs": {
+    "url": "https://github.com/doup/metalsmith-i18n/issues"
+  },
+  "homepage": "https://github.com/doup/metalsmith-i18n#readme",
+  "dependencies": {
+    "i18n": "^0.5.0"
+  },
+  "scripts": {
+    "test": "mocha --ui bdd --reporter spec"
+  },
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "metalsmith": "^1.7.0",
+    "mocha": "^2.2.5"
+  }
+}

@@ -1,0 +1,23 @@
+{
+	"hello": "Hola.",
+	"hello_name": "Hola {{name}}!",
+	"hello_x": "Hola %s!",
+	"hello_name_x": "Hola {{name}}, ¿que tal tu %s?",
+	"dog_color": {
+		"one": "Un perro {{color}}.",
+		"other": "%s perros {{color}}."
+	},
+	"dog_x": {
+		"one": "Un perro en %%s.",
+		"other": "%s perros en %s."
+	},
+	"dog_color_x": {
+		"one": "Un perro {{color}} en %%s.",
+		"other": "%s perros {{color}} en %s."
+	},
+	"n": "Y… %s, %s, %s!",
+	"n_count": {
+		"one": "Un %%s %%s y %%s.",
+		"other": "%s %%s %%s y %%s."
+	}
+}

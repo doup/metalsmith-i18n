@@ -1,12 +1,12 @@
-#metalsmith-i18n
+# metalsmith-i18n
 
 Use `__()` and `__n()` in your templates for translating your strings. Based on the [i18n](https://github.com/mashpie/i18n-node) library.
 
-##Installation
+## Installation
 
     $ npm install --save metalsmith-i18n
 
-##Usage
+## Usage
 
 Add the plugin with the required options. This will add `__` and `__n` methods to each file:
 
@@ -48,7 +48,7 @@ __n('key_n', 'key_n', 3, { locale: 'en' })
 
 You can see more usage examples in `test/index.js`.
 
-##Options
+## Options
 
 **default** `String` (required): Default locale for the translations.
 
@@ -56,11 +56,11 @@ You can see more usage examples in `test/index.js`.
 
 **directory** `String` (required): Path to the locales directory relative to the Metalsmith working directory.
 
-##Tests
+## Tests
 
 `npm test` to run the tests.
 
-##Licensed under MIT
+## Licensed under MIT
 
 Copyright (c) 2015, Asier Illarramendi <asier@illarra.com>
 

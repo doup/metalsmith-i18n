@@ -1,6 +1,6 @@
 {
   "name": "metalsmith-i18n",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Translate strings in Metalsmith templates",
   "author": "doup <asier@illarra.com>",
   "license": "MIT",

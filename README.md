@@ -54,7 +54,7 @@ You can see more usage examples in `test/index.js`.
 
 **locales** `Array` (required): List of supported locales. A JSON file for each locale will be created automatically in the locales directory.
 
-**directory** `String` (required): Path to the locales directory relative to Metalsmith source directory.
+**directory** `String` (required): Path to the locales directory relative to the Metalsmith working directory.
 
 ##Tests
 

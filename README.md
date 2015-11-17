@@ -1,3 +1,5 @@
+> **NOTE: This plugin is not working correctly on Handlebars, Mustache and probably other template engines**. Jade works fine and probably other template engines which support calling directly on properties should work.
+
 # metalsmith-i18n
 
 Use `__()` and `__n()` in your templates for translating your strings. Based on the [i18n](https://github.com/mashpie/i18n-node) library.

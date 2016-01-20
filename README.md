@@ -2,6 +2,8 @@
 
 # metalsmith-i18n
 
+[![Build Status](https://travis-ci.org/doup/metalsmith-i18n.svg?branch=master)](https://travis-ci.org/doup/metalsmith-i18n)
+
 Use `__()` and `__n()` in your templates for translating your strings. Based on the [i18n](https://github.com/mashpie/i18n-node) library.
 
 ## Installation

@@ -12,7 +12,7 @@ Use `__()` and `__n()` in your templates for translating your strings. Based on 
 
 ## Usage
 
-Add the plugin with the required options. This will add `__` and `__n` methods to each file:
+Add the plugin with the required options (it also accepts [`i18n` module](https://github.com/mashpie/i18n-node) options). This will add `__` and `__n` methods to each file:
 
 ```javascript
 var i18n = require('metalsmith-i18n');

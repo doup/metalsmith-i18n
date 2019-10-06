@@ -1,3 +1,5 @@
+> **THIS PROJECT IS NO LONGER MAINTAINED, OPEN A PR IF YOU WANT TAKE OWNERSHIP**
+
 > **NOTE: This plugin is not working correctly on Handlebars, Mustache and probably other template engines**. Jade works fine and probably other template engines which support calling directly on properties should work. [See #3](https://github.com/doup/metalsmith-i18n/issues/3)
 
 # metalsmith-i18n
